@@ -33,4 +33,9 @@ tr:nth-child(even)
 	background-color: lightgray;
 }
 
+img 
+{
+	border-radius: 8px;
+	width: 50%;
+}
 
